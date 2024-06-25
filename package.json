@@ -4,14 +4,18 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "sample-local-test":"npx playwright test tests/local_test.ts",
-    "sample-test":"npx playwright test tests/sample_test.ts"
+    "sample-local-test": "npx playwright test tests/local_test.ts",
+    "sample-test": "npx playwright test tests/sample_test.ts",
+    "postinstall": "npm update browserstack-node-sdk",
+    "sample-local-test-browserstack": "npx browserstack-node-sdk playwright test tests/local_test.ts",
+    "sample-test-browserstack": "npx browserstack-node-sdk playwright test tests/sample_test.ts"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@playwright/test": "^1.29.1",
-    "browserstack-local": "^1.5.1"
+    "browserstack-local": "^1.5.1",
+    "browserstack-node-sdk": "^1.34.1"
   }
 }

@@ -1,0 +1,42 @@
+2024-06-25 17:35:59 - [32minfo[39m: Creating configuration file...
+2024-06-25 17:35:59 - [32minfo[39m: Adding new script(s) in package.json...
+2024-06-25 17:35:59 - [32minfo[39m: Setup completed
+2024-06-25 17:37:41 - [32minfo[39m: Reading configs from /Users/melwyn/Workspace/sandbox/typescript-playwright-browserstack/browserstack.yml
+2024-06-25 17:37:41 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-06-25 17:38:24 - [32minfo[39m: Shutdown triggered by SIGINT
+2024-06-25 17:38:24 - [32minfo[39m: Automate test case execution has ended. Processing for accessibility testing is underway. 
+2024-06-25 17:38:25 - [32minfo[39m: Accessibility testing for this test case has ended.
+2024-06-25 17:38:28 - [32minfo[39m: Visit https://observability.browserstack.com/builds/laf52etv9e7xrx5niouo0cwq6h0jhotnyocthaae to view build report, insights, and many more debugging information all at one place!
+
+2024-06-25 17:38:28 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/3105083638682c6941b2cc06d01679f3fd81c2b8
+2024-06-25 17:38:29 - [32minfo[39m: Deleting /Users/melwyn/Workspace/sandbox/typescript-playwright-browserstack/playwright-browserstack-sdk.config.ts
+2024-06-25 17:38:36 - [32minfo[39m: Reading configs from /Users/melwyn/Workspace/sandbox/typescript-playwright-browserstack/browserstack.yml
+2024-06-25 17:38:36 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-06-25 17:38:41 - [32minfo[39m: Visit https://observability.browserstack.com/builds/yfrsa95y4sv8hgknupnbxdcaz6gmyvbqarqbxtgn to view build report, insights, and many more debugging information all at one place!
+
+2024-06-25 17:38:42 - [32minfo[39m: Deleting /Users/melwyn/Workspace/sandbox/typescript-playwright-browserstack/playwright-browserstack-sdk.config.ts
+2024-06-25 17:42:07 - [32minfo[39m: Reading configs from /Users/melwyn/Workspace/sandbox/typescript-playwright-browserstack/browserstack.yml
+2024-06-25 17:42:07 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-06-25 17:42:12 - [32minfo[39m: Visit https://observability.browserstack.com/builds/kky3jwsexctrpeu5zg2ffq6y0abhcxmr8wvjrxjs to view build report, insights, and many more debugging information all at one place!
+
+2024-06-25 17:42:13 - [32minfo[39m: Deleting /Users/melwyn/Workspace/sandbox/typescript-playwright-browserstack/playwright-browserstack-sdk.config.ts
+2024-06-25 17:42:44 - [32minfo[39m: Reading configs from /Users/melwyn/Workspace/sandbox/typescript-playwright-browserstack/browserstack.yml
+2024-06-25 17:42:44 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-06-25 17:42:49 - [32minfo[39m: Visit https://observability.browserstack.com/builds/kyaydh1fip04b3klhumwcmzcrzj7x1mrrwpc7vz3 to view build report, insights, and many more debugging information all at one place!
+
+2024-06-25 17:42:50 - [32minfo[39m: Deleting /Users/melwyn/Workspace/sandbox/typescript-playwright-browserstack/playwright-browserstack-sdk.config.ts
+2024-06-25 17:43:45 - [32minfo[39m: Reading configs from /Users/melwyn/Workspace/sandbox/typescript-playwright-browserstack/browserstack.yml
+2024-06-25 17:43:45 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-06-25 17:43:50 - [32minfo[39m: Visit https://observability.browserstack.com/builds/rmmminxmivu36ircoq9lmohay5pnxg5efn2t1uxe to view build report, insights, and many more debugging information all at one place!
+
+2024-06-25 17:43:51 - [32minfo[39m: Deleting /Users/melwyn/Workspace/sandbox/typescript-playwright-browserstack/playwright-browserstack-sdk.config.ts
+2024-06-25 17:47:22 - [32minfo[39m: Reading configs from /Users/melwyn/Workspace/sandbox/typescript-playwright-browserstack/browserstack.yml
+2024-06-25 17:47:22 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-06-25 17:47:28 - [32minfo[39m: Visit https://observability.browserstack.com/builds/0xzxngz2bjti891rrw0cqkgk7svth5vieeqn9pan to view build report, insights, and many more debugging information all at one place!
+
+2024-06-25 17:47:29 - [32minfo[39m: Deleting /Users/melwyn/Workspace/sandbox/typescript-playwright-browserstack/playwright-browserstack-sdk.config.ts
+2024-06-25 17:47:53 - [32minfo[39m: Reading configs from /Users/melwyn/Workspace/sandbox/typescript-playwright-browserstack/browserstack.yml
+2024-06-25 17:47:53 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-06-25 17:47:58 - [32minfo[39m: Visit https://observability.browserstack.com/builds/ccjdjoxlyahb6xjtbplvvwfms56xvsy4egqvzdut to view build report, insights, and many more debugging information all at one place!
+
+2024-06-25 17:47:59 - [32minfo[39m: Deleting /Users/melwyn/Workspace/sandbox/typescript-playwright-browserstack/playwright-browserstack-sdk.config.ts
