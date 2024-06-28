@@ -1,12 +1,5 @@
 // @ts-check
-const { devices, defineConfig } = require("@playwright/test");
-const { getCdpEndpoint } = require("./browserstack.config.ts");
-
-/**
- * Read environment variables from file.
- * https://github.com/motdotla/dotenv
- */
-// require('dotenv').config();
+const { defineConfig } = require("@playwright/test");
 
 /**
  * @see https://playwright.dev/docs/test-configuration
@@ -16,8 +9,8 @@ export default defineConfig({
   testDir: "./tests",
   testMatch: "**/*.ts",
 
-  globalSetup: require.resolve("./global-setup"),
-  globalTeardown: require.resolve("./global-teardown"),
+  // globalSetup: require.resolve("./global-setup"),
+  // globalTeardown: require.resolve("./global-teardown"),
 
   /* Maximum time one test can run for. */
   timeout: 90 * 1000,
@@ -52,42 +45,20 @@ export default defineConfig({
   /* Configure projects for major browsers */
   projects: [
     {
-      name: "chrome@latest:Windows 11",
-      use: {
-        connectOptions: {
-          wsEndpoint: getCdpEndpoint("chrome@latest:Windows 11", "test1"),
-        },
-      },
+      name: "setup",
+      testMatch: "**/*.setup.ts",
+      teardown: "teardown",
     },
     {
-      name: "playwright-webkit@latest:OSX Ventura",
-      use: {
-        connectOptions: {
-          wsEndpoint: getCdpEndpoint(
-            "playwright-webkit@latest:OSX Ventura",
-            "test2"
-          ),
-        },
-      },
+      name: "teardown",
+      testMatch: "**/*.teardown.ts",
     },
     {
-      name: "playwright-firefox:Windows 11",
+      name: "chrome",
       use: {
-        connectOptions: {
-          wsEndpoint: getCdpEndpoint("playwright-firefox:Windows 11", "test3"),
-        },
+        browserName: "chromium",
+        channel: "chrome",
       },
     },
   ],
-
-  /* Folder for test artifacts such as screenshots, videos, traces, etc. */
-  // outputDir: 'test-results/',
-
-  /* Run your local dev server before starting the tests */
-  // webServer: {
-  //   command: 'npm run start',
-  //   port: 3000,
-  // },
 });
-
-// module.exports = config;

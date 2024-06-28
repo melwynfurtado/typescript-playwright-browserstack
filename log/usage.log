@@ -40,3 +40,18 @@
 2024-06-25 17:47:58 - [32minfo[39m: Visit https://observability.browserstack.com/builds/ccjdjoxlyahb6xjtbplvvwfms56xvsy4egqvzdut to view build report, insights, and many more debugging information all at one place!
 
 2024-06-25 17:47:59 - [32minfo[39m: Deleting /Users/melwyn/Workspace/sandbox/typescript-playwright-browserstack/playwright-browserstack-sdk.config.ts
+2024-06-28 11:21:37 - [32minfo[39m: Reading configs from /Users/melwyn/Workspace/sandbox/typescript-playwright-browserstack/browserstack.yml
+2024-06-28 11:21:37 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-06-28 11:21:38 - [31merror[39m: You cannot run automation builds on the current plan. Visit the dashboard to learn more: https://accessibility.browserstack.com/automated-tests
+2024-06-28 11:21:38 - [31merror[39m: Unexpected token u in JSON at position 0
+2024-06-28 11:21:52 - [32minfo[39m: Shutdown triggered by SIGINT
+2024-06-28 11:21:55 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/2ef6acbcff33e9be608736f08251e8094dad6217
+2024-06-28 11:21:57 - [32minfo[39m: Deleting /Users/melwyn/Workspace/sandbox/typescript-playwright-browserstack/playwright-browserstack-sdk.config.ts
+2024-06-28 11:22:52 - [32minfo[39m: Reading configs from /Users/melwyn/Workspace/sandbox/typescript-playwright-browserstack/browserstack.yml
+2024-06-28 11:22:52 - [32minfo[39m: Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+2024-06-28 11:22:53 - [31merror[39m: You cannot run automation builds on the current plan. Visit the dashboard to learn more: https://accessibility.browserstack.com/automated-tests
+2024-06-28 11:22:53 - [31merror[39m: Unexpected token u in JSON at position 0
+2024-06-28 11:23:20 - [32minfo[39m: Visit https://observability.browserstack.com/builds/qhjo7zt3aad1yyrraqandztcb6wo3bntklommkxw to view build report, insights, and many more debugging information all at one place!
+
+2024-06-28 11:23:20 - [32minfo[39m: View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/54ae97ec6f446dd69af97712b726c27687f3679d
+2024-06-28 11:23:21 - [32minfo[39m: Deleting /Users/melwyn/Workspace/sandbox/typescript-playwright-browserstack/playwright-browserstack-sdk.config.ts
